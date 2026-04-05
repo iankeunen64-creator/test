@@ -1,0 +1,6 @@
+discord_webhook: null
+mode: email
+proxy_file: null
+proxy_type: null
+threads: 200
+use_proxies: false
